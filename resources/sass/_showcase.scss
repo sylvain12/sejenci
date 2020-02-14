@@ -1,0 +1,37 @@
+
+.section-content {
+	display: flex;
+	justify-content: space-between;
+
+	p {
+		margin-right: 2rem;
+		flex: 1;
+	}
+}
+
+.section-eligi-content-image {
+	width: 35rem;
+	border-radius: 25rem;
+}
+
+.section-eligi {
+	color: $color-lignt-2;
+	
+}
+
+.section-bene {
+	color: $color-lignt-2;
+}
+
+// h1 {
+// 	margin-bottom: 2rem;
+// }
+
+// .section-showcase-content {
+// 	display: flex;
+// 	justify-content: space-between;
+// }
+
+// .section-showcase__item {
+// 	width: 25rem;
+// }
